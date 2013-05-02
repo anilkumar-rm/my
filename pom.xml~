@@ -6,7 +6,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>aoc-att1</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>aoc-att</name>
 	<url>http://maven.apache.org</url>
 	<properties>
